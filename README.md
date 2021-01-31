@@ -1,6 +1,6 @@
-# Trem na web
+# Site Portfólio
 
-Modelo de site portifolio/empresarial desenvolvido como projeto final do curso do [Matheus Battisti](https://github.com/matheusbattisti) de [HTML&CSS](https://www.udemy.com/course/html5-e-css3-crie-seu-primeiro-site-inclui-flexbox/)
+Modelo de site portifólio/empresarial desenvolvido como projeto final do curso do [Matheus Battisti](https://github.com/matheusbattisti) de [HTML&CSS](https://www.udemy.com/course/html5-e-css3-crie-seu-primeiro-site-inclui-flexbox/)
 
 
 Você pode conferir a versão publicada [aqui](https://brunoazzireluto.github.io/Site-Portifolio/)
